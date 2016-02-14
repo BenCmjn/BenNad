@@ -1,3 +1,11 @@
 html {
 	background-color: red;
+	color: #FAFAFA;
+	list-style: none;
+}
+h1{
+	color: green;
+}
+main{
+	text-align: center;
 }
