@@ -20,11 +20,5 @@
 			</nav>
 	</header>
 
-	<main>
-		<img style="width:300px" src="a.png">
-	</main>
 
-	
-</body>
 
-</html>
